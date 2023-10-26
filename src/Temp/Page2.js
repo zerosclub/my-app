@@ -2,7 +2,7 @@ import React from "react";
 
 const Page2 = () => {
     return (
-        <h1>Pag2 화면</h1>
+        <h1>Page2 화면</h1>
             )
 }
 
